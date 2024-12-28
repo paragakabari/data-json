@@ -1,19 +1,21 @@
 document.addEventListener("DOMContentLoaded", () => {
   const url = "/data.json"; // Path to the JSON file
 
-  // Check if we are on the details page
+  // Check if we're on the details page
   const isDetailsPage = window.location.pathname.includes("details.html");
 
   if (isDetailsPage) {
-    // Get the ID from the URL (e.g., /details.html?id=1d88f8f1-df3c-4c22-8269-9008c072d1e4)
+    // Get the ID from the URL query string
     const urlParams = new URLSearchParams(window.location.search);
     const id = urlParams.get("id");
 
     if (id) {
+      // Fetch the data.json file
       fetch(url)
         .then((response) => response.json())
         .then((data) => {
-          const item = data.find((entry) => entry.id === id); // Find item by ID
+          // Find the item with the matching ID
+          const item = data.find((entry) => entry.id === id);
           const container = document.getElementById("data-container");
 
           if (item) {

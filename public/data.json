@@ -1,0 +1,1008 @@
+{
+  "data": [
+    {
+      "id": "1d88f8f1-df3c-4c22-8269-9008c072d1e4",
+      "name": "Apriltest",
+      "address": "48, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "latitude": 12.9756071,
+      "longitude": 77.60321929999999,
+      "google_maps_thumbnail_url": "https://stag.bhiveworkspace.com/store/static_assets/images/map_thumbnails/076584e1-a975-4132-9872-5f224a1b498a.png",
+      "google_maps_url": "https://www.google.com/maps/place/BHIVE+Premium+Church+Street/@12.9756071,77.6032193,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae173e2de8a801:0x1a89454e3024974b!8m2!3d12.9756071!4d77.6032193!16s%2Fg%2F11kbz2bpk8?entry=ttu",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "postal_code": null,
+      "description": "test ",
+      "rules": "test",
+      "amenities": [
+        "Library",
+        "Pet-friendly",
+        "Conferencing facilities",
+        "Outdoor space",
+        "Parking",
+        "Lounge"
+      ],
+      "images": [
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/77b302645ed94ba2b007722cdbd86419.jpg"
+      ],
+      "working_hours_start": "09:00",
+      "working_hours_end": "17:00",
+      "contact_person_name": null,
+      "contact_person_phone": null,
+      "facilities": null,
+      "is_active": true,
+      "is_day_pass_enabled": true,
+      "day_pass_price": 9.0,
+      "day_pass_discounts_percentage": {
+        "1": {
+          "value": 0,
+          "message": ""
+        },
+        "10": {
+          "value": 20,
+          "message": "Pay for 8 Days, Get 2 Days Complimentary"
+        }
+      },
+      "manager_id": null,
+      "gatekeeper_ids": null,
+      "gatekeeper_details": [],
+      "can_edit": false
+    },
+    {
+      "id": "ac62533a-2d07-449d-8cb1-56f34e32c097",
+      "name": "Forum, Koramangala",
+      "address": "19, 4th C Cross Rd, KHB Colony, Industrial Area, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "latitude": 12.9347492,
+      "longitude": 77.6144927,
+      "google_maps_thumbnail_url": "https://stag.bhiveworkspace.com/store/static_assets/images/map_thumbnails/9d0f5843-fab3-4409-8866-042f95a1a896.png",
+      "google_maps_url": "https://www.google.co.in/maps/place/BHIVE+Workspace,+Koramangala/@12.9352467,77.6071099,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae14467f27877f:0xcb2e37d776ee06a5!8m2!3d12.935251!4d77.609304",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "postal_code": "560095",
+      "description": null,
+      "rules": null,
+      "amenities": ["Conferencing facilities", "Parking"],
+      "images": [
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/1e91cb0e49324752ad29ce1c37242989.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/dc6d61e4489d483aa939746ace2da051.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/3fc92d5411d841ddb6c9249c2bafadee.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/1eb4f63738894ed3bdb225df57c64a8d.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/450f773fda2b474481d4e95dd12349d7.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/afd44059ac3647d18a30b4ce21c4d72c.jpg"
+      ],
+      "working_hours_start": "00:00",
+      "working_hours_end": "23:59",
+      "contact_person_name": "Dave",
+      "contact_person_phone": "+919769220897",
+      "facilities": null,
+      "is_active": true,
+      "is_day_pass_enabled": true,
+      "day_pass_price": 299.0,
+      "day_pass_discounts_percentage": {
+        "1": {
+          "value": 0,
+          "message": ""
+        },
+        "10": {
+          "value": 20,
+          "message": "Pay for 8 Days, Get 2 Days Complimentary"
+        }
+      },
+      "manager_id": null,
+      "gatekeeper_ids": null,
+      "gatekeeper_details": [
+        {
+          "id": "418bb69a-6cf2-4bec-afde-614e963641fe",
+          "country_code": "+91",
+          "mobile": "7658901234",
+          "email": "duklo@gmail.com",
+          "first_name": "Suraj",
+          "last_name": "K"
+        }
+      ],
+      "can_edit": false
+    },
+    {
+      "id": "720485c2-95a9-424a-ab74-1cf8d1574c19",
+      "name": "test12",
+      "address": "BHIVE Workspace, No.467/468, Situated on, Shri Krishna Temple Rd, Indira Nagar 1st Stage, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "latitude": 12.9789187,
+      "longitude": 77.643063,
+      "google_maps_thumbnail_url": "https://stag.bhiveworkspace.com/store/static_assets/images/map_thumbnails/08f3264b-9e1b-464d-b061-26eed1291aae.png",
+      "google_maps_url": "https://www.google.com/maps/place/BHIVE+Workspace+Indiranagar/@12.9789187,77.6404881,17z/data=!4m7!3m6!1s0x3bae141e007a849d:0xbff26c814318fc77!4b1!8m2!3d12.9789187!4d77.643063!16s%2Fg%2F11bxf3zpnf?entry=ttu",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "postal_code": "560038",
+      "description": null,
+      "rules": null,
+      "amenities": ["Library"],
+      "images": [
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/a5130b96092844aa8b2e350e2d243931.jpg"
+      ],
+      "working_hours_start": "09:00",
+      "working_hours_end": "17:00",
+      "contact_person_name": null,
+      "contact_person_phone": null,
+      "facilities": null,
+      "is_active": true,
+      "is_day_pass_enabled": true,
+      "day_pass_price": 499.0,
+      "day_pass_discounts_percentage": {
+        "1": {
+          "value": 0,
+          "message": ""
+        },
+        "10": {
+          "value": 20,
+          "message": "Pay for 8 Days, Get 2 Days Complimentary"
+        }
+      },
+      "manager_id": null,
+      "gatekeeper_ids": ["ec8eb8b2-55e5-4659-9dfc-624f315464b1"],
+      "gatekeeper_details": [
+        {
+          "id": "66fc93ea-3ce1-4c7b-b417-fcea92b6a484",
+          "country_code": "+91",
+          "mobile": "4657878798",
+          "email": "gagjz@gmail.com",
+          "first_name": "test",
+          "last_name": "L"
+        }
+      ],
+      "can_edit": false
+    },
+    {
+      "id": "89cfeff0-544c-410f-9882-78f09930180f",
+      "name": "Apriltest2",
+      "address": "25, Primrose Rd, Craig Park Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560025, India",
+      "latitude": 12.9713249,
+      "longitude": 77.61295539999999,
+      "google_maps_thumbnail_url": "https://stag.bhiveworkspace.com/store/static_assets/images/map_thumbnails/4693b690-7f1f-4503-b898-19f2e53fe3ee.png",
+      "google_maps_url": "https://www.google.com/maps/place/Honeykomb+by+BHIVE+MG+Road/@12.9713249,77.6129554,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae17b46a494cd7:0x90cffed4310f5fa2!8m2!3d12.9713249!4d77.6129554!16s%2Fg%2F11js7cgzfn?entry=ttu",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "postal_code": null,
+      "description": "test ",
+      "rules": "test",
+      "amenities": [
+        "Library",
+        "Pet-friendly",
+        "Conferencing facilities",
+        "Outdoor space",
+        "Parking",
+        "Lounge"
+      ],
+      "images": [
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/95bb7d883aa9404ba555dcd8ecffb651.jpg"
+      ],
+      "working_hours_start": "09:00",
+      "working_hours_end": "17:00",
+      "contact_person_name": null,
+      "contact_person_phone": null,
+      "facilities": null,
+      "is_active": true,
+      "is_day_pass_enabled": true,
+      "day_pass_price": 55.0,
+      "day_pass_discounts_percentage": {
+        "1": {
+          "value": 0,
+          "message": ""
+        },
+        "10": {
+          "value": 20,
+          "message": "Pay for 8 Days, Get 2 Days Complimentary"
+        }
+      },
+      "manager_id": null,
+      "gatekeeper_ids": null,
+      "gatekeeper_details": [],
+      "can_edit": false
+    },
+    {
+      "id": "bdbf1adf-8a3f-4ef4-9ba0-c7cb48bd240e",
+      "name": "5th Block, Kormangala",
+      "address": "19, 4th C Cross Rd, KHB Colony, Industrial Area, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "latitude": 12.9347492,
+      "longitude": 77.6144927,
+      "google_maps_thumbnail_url": "https://stag.bhiveworkspace.com/store/static_assets/images/map_thumbnails/c9c54f57-83f8-45f3-a6db-524ac933f62d.png",
+      "google_maps_url": "https://www.google.com/maps/place/BHIVE+Workspace+Koramangala+5th+Block/@12.9348119,77.6122685,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae15bf9a5a7cc3:0xa61f609bcfe97065!8m2!3d12.9348067!4d77.6144572?shorturl=1",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "postal_code": "560034",
+      "description": null,
+      "rules": null,
+      "amenities": null,
+      "images": [
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/1cc4d4543add4117becea969be9d50e9.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/d8c4509d5ebb490fafa6af8eef96f58d.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/2850374c917a49db8c02a2849aa8ed09.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/35111871b9f84f70b7a5f5b9cf151493.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/8c8e4f563bc84ac299bd2ed876082c1a.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/6a9c456c7f224560a67aca3ab1dbb4db.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/40abddc40c26497cac573857cf0f8fb6.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/4b8541d700c24d31b4420494f7b5259f.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/2f80d0b30ec945a198447a2b174839fc.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/131263fcf6174eea8f2541c821a84ab4.jpg"
+      ],
+      "working_hours_start": "00:00",
+      "working_hours_end": "23:59",
+      "contact_person_name": "Dave",
+      "contact_person_phone": "+919769220897",
+      "facilities": null,
+      "is_active": true,
+      "is_day_pass_enabled": true,
+      "day_pass_price": 299.0,
+      "day_pass_discounts_percentage": {
+        "1": {
+          "value": 0,
+          "message": ""
+        },
+        "10": {
+          "value": 20,
+          "message": "Pay for 8 Days, Get 2 Days Complimentary"
+        }
+      },
+      "manager_id": null,
+      "gatekeeper_ids": null,
+      "gatekeeper_details": [
+        {
+          "id": "65af7420-c82f-4c4e-8c94-d5c4ef5f88c7",
+          "country_code": "+91",
+          "mobile": "9480707203",
+          "email": "bhive@gmail.com",
+          "first_name": "gk",
+          "last_name": "test"
+        }
+      ],
+      "can_edit": false
+    },
+    {
+      "id": "a78a77ff-b259-42d0-99d3-a6807cdbdbb5",
+      "name": "test101",
+      "address": "48, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "latitude": 12.9756071,
+      "longitude": 77.60321929999999,
+      "google_maps_thumbnail_url": "https://stag.bhiveworkspace.com/store/static_assets/images/map_thumbnails/b6169a0b-4b50-43c7-bec4-e03b9e73b984.png",
+      "google_maps_url": "https://www.google.com/maps/place/BHIVE+Premium+Church+Street/@12.9756071,77.6032193,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae173e2de8a801:0x1a89454e3024974b!8m2!3d12.9756071!4d77.6032193!16s%2Fg%2F11kbz2bpk8?entry=ttu",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "postal_code": "560001",
+      "description": null,
+      "rules": null,
+      "amenities": null,
+      "images": [
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/ab5a044d636d41d6ba87e506216c72ee.jpg"
+      ],
+      "working_hours_start": "09:00",
+      "working_hours_end": "23:00",
+      "contact_person_name": null,
+      "contact_person_phone": null,
+      "facilities": null,
+      "is_active": true,
+      "is_day_pass_enabled": true,
+      "day_pass_price": 200.0,
+      "day_pass_discounts_percentage": {
+        "1": {
+          "value": 0,
+          "message": ""
+        },
+        "10": {
+          "value": 20,
+          "message": "Pay for 8 Days, Get 2 Days Complimentary"
+        }
+      },
+      "manager_id": null,
+      "gatekeeper_ids": null,
+      "gatekeeper_details": [],
+      "can_edit": false
+    },
+    {
+      "id": "c08b4e48-0866-4ef2-a665-efcc980ff88a",
+      "name": "Brigade, Whitefield",
+      "address": "XPV3+76P, Whitefield Main Rd, Brigade Metropolis, Garudachar Palya, Mahadevapura, Bengaluru, Karnataka 560048, India",
+      "latitude": 12.9932147,
+      "longitude": 77.7030894,
+      "google_maps_thumbnail_url": "https://stag.bhiveworkspace.com/store/static_assets/images/map_thumbnails/f459eb00-65dc-40ec-a0bc-1707ef812253.png",
+      "google_maps_url": "https://www.google.com/maps/place/Brigade+Metropolis+Main+Gate/@12.9932147,77.7009007,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae117bbe2e80ad:0x2e20b87e8392416c!8m2!3d12.9932146!4d77.7030893?shorturl=1",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "postal_code": "560048",
+      "description": null,
+      "rules": null,
+      "amenities": ["Conferencing facilities", "Parking"],
+      "images": [
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/cd4f712611f2406abaf4eb920e45eeea.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/945dbc69dbd24d28bee43e274b371e35.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/0fe3d524eb8f49169967a98b9be8e7fa.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/a7a1cc2e08e44f9c94beba3cf91110c7.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/53816fbb656944ed83841289f6d14b65.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/4db77e2d487845fd82fb5b38df70611b.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/09edb6b4ca5c4a0ba2842ab29327e165.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/70d88276a24942daa824a8bf9d307c6c.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/dc0158697e314e74843e1c96b9011cd2.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/ef66c919a8d347c19e21ed25174c82ed.jpg"
+      ],
+      "working_hours_start": "00:00",
+      "working_hours_end": "23:59",
+      "contact_person_name": "Dave",
+      "contact_person_phone": "+919769220897",
+      "facilities": null,
+      "is_active": true,
+      "is_day_pass_enabled": true,
+      "day_pass_price": 199.0,
+      "day_pass_discounts_percentage": {
+        "1": {
+          "value": 0,
+          "message": ""
+        },
+        "10": {
+          "value": 20,
+          "message": "Pay for 8 Days, Get 2 Days Complimentary"
+        }
+      },
+      "manager_id": null,
+      "gatekeeper_ids": ["d34645b1-d588-40e1-b456-9871fa799e21"],
+      "gatekeeper_details": [
+        {
+          "id": "d34645b1-d588-40e1-b456-9871fa799e21",
+          "country_code": "+91",
+          "mobile": "9008647923",
+          "email": "test@gmail.com",
+          "first_name": "Gatekeeper",
+          "last_name": "Test"
+        }
+      ],
+      "can_edit": false
+    },
+    {
+      "id": "e233ee20-c313-43a2-80b6-28613d7b8cac",
+      "name": "testtoday2",
+      "address": "BHIVE, Mahalakshmi Chambers, 29, Mahatma Gandhi Rd, next to Metro Station Trinity, opp. Kotak Bank, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001, India",
+      "latitude": 12.9735089,
+      "longitude": 77.6164228,
+      "google_maps_thumbnail_url": "https://stag.bhiveworkspace.com/store/static_assets/images/map_thumbnails/afff2a28-d449-4529-9c0c-66951335fd1c.png",
+      "google_maps_url": "https://www.google.com/maps/place/BHIVE+Workspace+MG+Road/@12.9735141,77.6138479,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae17daed2415b9:0x12dd81e0b4f492f2!8m2!3d12.9735089!4d77.6164228!16s%2Fg%2F11h75z6gql?entry=ttu",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "postal_code": "560001",
+      "description": "test",
+      "rules": "test90",
+      "amenities": [
+        "Conferencing facilities",
+        "Library",
+        "Outdoor space",
+        "Parking",
+        "Lounge",
+        "Pet-friendly"
+      ],
+      "images": [
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/609412e4381c40a090a4555da1711109.jpg"
+      ],
+      "working_hours_start": "06:00",
+      "working_hours_end": "18:00",
+      "contact_person_name": null,
+      "contact_person_phone": null,
+      "facilities": null,
+      "is_active": true,
+      "is_day_pass_enabled": true,
+      "day_pass_price": 10.0,
+      "day_pass_discounts_percentage": {
+        "1": {
+          "value": 0,
+          "message": ""
+        },
+        "10": {
+          "value": 20,
+          "message": "Pay for 8 Days, Get 2 Days Complimentary"
+        }
+      },
+      "manager_id": null,
+      "gatekeeper_ids": null,
+      "gatekeeper_details": [
+        {
+          "id": "07e7a6b9-6822-443b-afd5-7047c10d4a04",
+          "country_code": "+91",
+          "mobile": "9538313442",
+          "email": "g123@gmail.com",
+          "first_name": "Neta",
+          "last_name": "Gatekeeperp"
+        }
+      ],
+      "can_edit": false
+    },
+    {
+      "id": "471c30b4-e91c-4392-9ebe-b4c1ad4a7b63",
+      "name": "HSR Campus",
+      "address": "BHIVE Workspace - No.112, AKR Tech Park, \"A\" and, Uma Sree Dream World B-Block, 7th Mile Hosur Rd, Kudlu Gate, Krishna Reddy Industrial Area, Hosapalaya, Muneshwara Nagar, Bengaluru, Karnataka 560068, India",
+      "latitude": 12.8922664,
+      "longitude": 77.6417362,
+      "google_maps_thumbnail_url": "https://stag.bhiveworkspace.com/store/static_assets/images/map_thumbnails/69789457-8a43-48c6-ad0b-8a39f8d4e144.png",
+      "google_maps_url": "https://www.google.com/maps/place/BHIVE+Premium+HSR+Campus/@12.8926389,77.6417601,15z/data=!4m6!3m5!1s0x3bae1526dc247ba9:0xebdd6b6714bfaabc!8m2!3d12.8922664!4d77.6417362!16s%2Fg%2F11sfrrvfdm?entry=ttu",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "postal_code": "560068",
+      "description": null,
+      "rules": null,
+      "amenities": null,
+      "images": [
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/0dfe4977f25940aa9d32507d4a233c9c.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/74f4ff0f3b7649838ccef3936cb353b1.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/ab830c8378ed45caa31ee101fdc4e5fd.jpg"
+      ],
+      "working_hours_start": "00:00",
+      "working_hours_end": "23:59",
+      "contact_person_name": "Dave",
+      "contact_person_phone": "+919769220897",
+      "facilities": null,
+      "is_active": true,
+      "is_day_pass_enabled": true,
+      "day_pass_price": 299.0,
+      "day_pass_discounts_percentage": {
+        "1": {
+          "value": 0,
+          "message": ""
+        },
+        "10": {
+          "value": 20,
+          "message": "Pay for 8 Days, Get 2 Days Complimentary"
+        }
+      },
+      "manager_id": null,
+      "gatekeeper_ids": null,
+      "gatekeeper_details": [
+        {
+          "id": "b2ab4fc6-feb1-4a31-a900-2a9229b45f1e",
+          "country_code": "+91",
+          "mobile": "8431559210",
+          "email": "chandra2@gmail.com",
+          "first_name": "chandramma",
+          "last_name": "L"
+        }
+      ],
+      "can_edit": false
+    },
+    {
+      "id": "c3ad2eef-8c95-4686-9d29-1fb8798178c7",
+      "name": "MG Road, next to Trinity Metro",
+      "address": "BHIVE, Mahalakshmi Chambers, 29, Mahatma Gandhi Rd, next to Metro Station Trinity, opp. Kotak Bank, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001, India",
+      "latitude": 12.9735089,
+      "longitude": 77.6164228,
+      "google_maps_thumbnail_url": "https://stag.bhiveworkspace.com/store/static_assets/images/map_thumbnails/715b8e7d-709f-4e01-b71c-b06506aff0ac.png",
+      "google_maps_url": "https://www.google.com/maps/place/BHIVE+Workspace+MG+Road/@12.9735164,77.6160206,20z/data=!4m6!3m5!1s0x3bae17daed2415b9:0x12dd81e0b4f492f2!8m2!3d12.9735089!4d77.6164228!16s%2Fg%2F11h75z6gql?entry=ttu",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "postal_code": "560001",
+      "description": "test",
+      "rules": "test",
+      "amenities": ["Library", "Parking", "Conferencing facilities"],
+      "images": [
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/3fe4dbed367e432090cbc6d1e5cd7d0f.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/75b770b3f9a44ceea7fcdfe21cdc06e7.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/b1b3f8e4df864ff684adccff3c9913da.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/6c7ef0a3d6b94bf9b196128364af7607.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/ab6ae26b7add4a8d8639ca7b7f4ebc8e.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/44f8ae6306be4034865f79fb0a939bff.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/9280c1d958344ccd89bccddb1d875b10.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/05f9571a863c4162834cd72476f7a100.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/adc0b052cd58486fb6621304b44ee5f7.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/94acd8ad748347a8ad514987c4ec4be5.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/bf59951952044336abcaf79ca198edbf.jpg"
+      ],
+      "working_hours_start": "00:00",
+      "working_hours_end": "23:59",
+      "contact_person_name": "Dave",
+      "contact_person_phone": "+919769220897",
+      "facilities": null,
+      "is_active": true,
+      "is_day_pass_enabled": true,
+      "day_pass_price": 399.0,
+      "day_pass_discounts_percentage": {
+        "1": {
+          "value": 0,
+          "message": ""
+        },
+        "10": {
+          "value": 20,
+          "message": "Pay for 8 Days, Get 2 Days Complimentary"
+        }
+      },
+      "manager_id": null,
+      "gatekeeper_ids": null,
+      "gatekeeper_details": [
+        {
+          "id": "c33ad747-def2-4714-aec1-3afda0437544",
+          "country_code": "+91",
+          "mobile": "8463068231",
+          "email": "qasim@123.com",
+          "first_name": "Qasim",
+          "last_name": "1"
+        }
+      ],
+      "can_edit": false
+    },
+    {
+      "id": "f87f54e2-6ce4-4bc5-bed7-587b361b5633",
+      "name": "JBR Campus, Whitefield",
+      "address": "Whitefield, Bengaluru, Karnataka, India",
+      "latitude": 12.9698196,
+      "longitude": 77.7499721,
+      "google_maps_thumbnail_url": "https://stag.bhiveworkspace.com/store/static_assets/images/map_thumbnails/cc4e2c50-7d07-471c-8105-a8ab1824c49f.png",
+      "google_maps_url": "https://www.google.com/maps/place/BHIVE+Workspace+Whitefield+Campus/@12.978337,77.727572,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae11fbbbc36817:0x1441e10c2bb64441!8m2!3d12.978337!4d77.727572!16s%2Fg%2F11k4vg8_20?coh=178572&entry=tt&shorturl=1",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "postal_code": "560066",
+      "description": null,
+      "rules": null,
+      "amenities": ["Conferencing facilities", "Parking"],
+      "images": [
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/e2d0405175f74b5c815658a8ef5ef4b8.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/12b7ba9a233747e98e7b4d5b37e4ec97.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/8f3ed691583d42bb845893f349d8c298.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/b462b764638743ce8b8ffe29baed2ea3.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/5e0fb907ad8c404b8b1c4aeb4c815f5e.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/b98b986a5b8440c7bce694ae223ddbea.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/9adec34611b94db5b9bf9e4854012c95.jpg"
+      ],
+      "working_hours_start": "00:00",
+      "working_hours_end": "23:59",
+      "contact_person_name": "Dave",
+      "contact_person_phone": "+919769220897",
+      "facilities": null,
+      "is_active": true,
+      "is_day_pass_enabled": true,
+      "day_pass_price": 199.0,
+      "day_pass_discounts_percentage": {
+        "1": {
+          "value": 0,
+          "message": ""
+        },
+        "10": {
+          "value": 20,
+          "message": "Pay for 8 Days, Get 2 Days Complimentary"
+        }
+      },
+      "manager_id": null,
+      "gatekeeper_ids": null,
+      "gatekeeper_details": [
+        {
+          "id": "d76b21b2-7502-4725-9d28-319f0f7154de",
+          "country_code": "+91",
+          "mobile": "9945789107",
+          "email": "90oi@gmail.com",
+          "first_name": "siri",
+          "last_name": "I"
+        }
+      ],
+      "can_edit": false
+    },
+    {
+      "id": "ec7580a1-2832-4f90-9813-b9258077e466",
+      "name": "c6",
+      "address": "BHIVE Workspace, No.467/468, Situated on, Shri Krishna Temple Rd, Indira Nagar 1st Stage, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "latitude": 12.9789187,
+      "longitude": 77.643063,
+      "google_maps_thumbnail_url": "https://stag.bhiveworkspace.com/store/static_assets/images/map_thumbnails/a3692823-dbc6-4bb4-82ec-29360bda88c5.png",
+      "google_maps_url": "https://www.google.com/maps/place/BHIVE+Workspace+Indiranagar/@12.9789187,77.6404881,17z/data=!4m7!3m6!1s0x3bae141e007a849d:0xbff26c814318fc77!4b1!8m2!3d12.9789187!4d77.643063!16s%2Fg%2F11bxf3zpnf?entry=ttu",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "postal_code": "560038",
+      "description": "desc6",
+      "rules": "rule6",
+      "amenities": ["Pet-friendly", "Conferencing facilities"],
+      "images": [
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/d1f778ad04ef403784e71893b333d651.jpg"
+      ],
+      "working_hours_start": "09:00",
+      "working_hours_end": "18:00",
+      "contact_person_name": null,
+      "contact_person_phone": null,
+      "facilities": null,
+      "is_active": true,
+      "is_day_pass_enabled": true,
+      "day_pass_price": 99.0,
+      "day_pass_discounts_percentage": {
+        "1": {
+          "value": 0,
+          "message": ""
+        },
+        "10": {
+          "value": 20,
+          "message": "Pay for 8 Days, Get 2 Days Complimentary"
+        }
+      },
+      "manager_id": null,
+      "gatekeeper_ids": null,
+      "gatekeeper_details": [
+        {
+          "id": "d257f09c-64a8-4ffa-9145-7fd36a6bbabd",
+          "country_code": "+91",
+          "mobile": "8963418796",
+          "email": "xyz@gmail.com",
+          "first_name": "Testing",
+          "last_name": "Feb20"
+        }
+      ],
+      "can_edit": false
+    },
+    {
+      "id": "298a504d-c5cd-4456-a132-e3a8f18a4a43",
+      "name": "27th Main, HSR",
+      "address": "1794 36/3, 27th Main Rd, near Power Station, 2nd Sector, ITI Layout, Sector 7, HSR Layout, Bengaluru, Karnataka 560102, India",
+      "latitude": 12.9007116,
+      "longitude": 77.6504523,
+      "google_maps_thumbnail_url": "https://stag.bhiveworkspace.com/store/static_assets/images/map_thumbnails/a9a198a7-9463-4c60-a23a-6ce51ea4ca0f.png",
+      "google_maps_url": "https://www.google.com/maps/place/BHIVE+Workspace+HSR+27th+Main/@12.90052,77.6503254,14z/data=!4m15!1m8!3m7!1s0x3bae156b204005b5:0x9576fc560c8a1ed5!2sBHIVE+Workspace+HSR+27th+Main!8m2!3d12.9007116!4d77.6504523!10e5!16s%2Fg%2F11flzp4z92!3m5!1s0x3bae156b204005b5:0x9576fc560c8a1ed5!8m2!3d12.9007116!4d77.6504523!16s%2Fg%2F11flzp4z92?authuser=1&entry=ttu",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "postal_code": "560102",
+      "description": null,
+      "rules": null,
+      "amenities": ["Conferencing facilities", "Parking"],
+      "images": [
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/4d85410baa074351aa948fc2c5da50d9.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/1feca5eb20db4f869d1737bb6d43512b.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/dc11a4aaeae14506a3aa47ca2df9f76b.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/fe69936ecbf7485eac59ab85312689d6.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/dfc4d86cb3894c68bbbfc2172730e18e.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/20287a9923d34a659809df8d12861259.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/452b0697abfd41bcbc5800b287d13849.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/9f93323389ed480ea0eb277aa6bb60b9.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/d319765c959e40918f504f902dded632.jpg"
+      ],
+      "working_hours_start": "00:00",
+      "working_hours_end": "23:59",
+      "contact_person_name": "Dave",
+      "contact_person_phone": "+919769220897",
+      "facilities": null,
+      "is_active": true,
+      "is_day_pass_enabled": true,
+      "day_pass_price": 249.0,
+      "day_pass_discounts_percentage": {
+        "1": {
+          "value": 0,
+          "message": ""
+        },
+        "10": {
+          "value": 20,
+          "message": "Pay for 8 Days, Get 2 Days Complimentary"
+        }
+      },
+      "manager_id": null,
+      "gatekeeper_ids": null,
+      "gatekeeper_details": [
+        {
+          "id": "f5ac2da5-5916-46a9-92a6-6b778fcfee0c",
+          "country_code": "+91",
+          "mobile": "1111199999",
+          "email": "feb21@mail.com",
+          "first_name": "feb21",
+          "last_name": "2024"
+        }
+      ],
+      "can_edit": false
+    },
+    {
+      "id": "5efe3ce4-cd03-49de-a685-0753e1cad51d",
+      "name": "Platinum, Sector 6, HSR",
+      "address": "14th Cross Road, L-158, 5th Main Rd, Sector 6, HSR Layout, Bengaluru, Karnataka 560102, India",
+      "latitude": 12.9158674,
+      "longitude": 77.6310192,
+      "google_maps_thumbnail_url": "https://stag.bhiveworkspace.com/store/static_assets/images/map_thumbnails/f5c67c36-2ae5-4a25-a905-500680731feb.png",
+      "google_maps_url": "https://www.google.com/maps/place/BHIVE+Workspace+Platinum+S6/@12.916057,77.6206782,15.47z/data=!4m6!3m5!1s0x3bae159682295aaf:0x314af2ae2f5919a8!8m2!3d12.9159002!4d77.6309792!16s%2Fg%2F11kryqwvsv?entry=ttu",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "postal_code": "560102",
+      "description": null,
+      "rules": null,
+      "amenities": ["Conferencing facilities", "Parking"],
+      "images": [
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/ec2e500ed18c412d9dd81560c9dffcae.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/a8eaf5014d8a430bbdc8802e121cc804.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/6497f65095a741cebf1be3d97f4356a1.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/80ee25bd9b8d45259ae9d12b50c2bdd8.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/21dcb675707f4a0cb94a43ae044e73dc.jpg"
+      ],
+      "working_hours_start": "00:00",
+      "working_hours_end": "23:59",
+      "contact_person_name": "Dave",
+      "contact_person_phone": "+919769220897",
+      "facilities": null,
+      "is_active": true,
+      "is_day_pass_enabled": true,
+      "day_pass_price": 499.0,
+      "day_pass_discounts_percentage": {
+        "1": {
+          "value": 0,
+          "message": ""
+        },
+        "10": {
+          "value": 20,
+          "message": "Pay for 8 Days, Get 2 Days Complimentary"
+        }
+      },
+      "manager_id": null,
+      "gatekeeper_ids": null,
+      "gatekeeper_details": [
+        {
+          "id": "54adb53c-714f-4872-80e7-8a5901e86bc4",
+          "country_code": "+91",
+          "mobile": "9448810486",
+          "email": "abcgtffh@gmail.com",
+          "first_name": "anamika",
+          "last_name": "S"
+        }
+      ],
+      "can_edit": false
+    },
+    {
+      "id": "39ab7642-8de3-4e95-aa5d-34089bc67b90",
+      "name": "Platinum, Indiranagar",
+      "address": "271, 6th Main Rd, HAL 2nd Stage, Motappapalya, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "latitude": 12.9732196,
+      "longitude": 77.6406548,
+      "google_maps_thumbnail_url": "https://stag.bhiveworkspace.com/store/static_assets/images/map_thumbnails/14c58aa2-4fb6-478a-ada5-1f195d595ea1.png",
+      "google_maps_url": "https://www.google.com/maps/place/BHIVE+Workspace+Platinum+Indiranagar/@12.9732196,77.6406548,15z/data=!4m2!3m1!1s0x0:0x310e3359eaf1ee4f?sa=X&ved=2ahUKEwjO3L_JgJ6BAxWzZWwGHSwRDXAQ_BJ6BAg9EAA&hl=en-US&ved=2ahUKEwjO3L_JgJ6BAxWzZWwGHSwRDXAQ_BJ6BAhNEAgm/maps/place/BHIVE+Workspace+Indiranagar/@12.9789187,77.6404881,17z/data=!4m6!3m5!1s0x3bae141e007a849d:0xbff26c814318fc77!8m2!3d12.9789187!4d77.643063!16s%2Fg%2F11bxf3zpnf?entry=ttu",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "postal_code": "560038",
+      "description": null,
+      "rules": null,
+      "amenities": ["Conferencing facilities", "Parking"],
+      "images": [
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/5934c0fd9d574bddbde8175d86a2d2da.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/c9cc08d27ab748c6b5b3c301b8107bd0.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/4ffee9e37b5445e89827a585996836f5.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/c07fa9c9bb614a12ac29fb4cfdb2c929.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/5a5ea8e69f8a49f7b19443366fea8e73.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/7e127e1af3f544378c7d5213684bd89f.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/bab82c90885c479587f6c980ef1a7313.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/2be18920573d40acb6e8ebcf94eb0d5d.jpg"
+      ],
+      "working_hours_start": "00:00",
+      "working_hours_end": "23:59",
+      "contact_person_name": "Dave",
+      "contact_person_phone": "+919769220897",
+      "facilities": null,
+      "is_active": true,
+      "is_day_pass_enabled": true,
+      "day_pass_price": 499.0,
+      "day_pass_discounts_percentage": {
+        "1": {
+          "value": 0,
+          "message": ""
+        },
+        "10": {
+          "value": 20,
+          "message": "Pay for 8 Days, Get 2 Days Complimentary"
+        }
+      },
+      "manager_id": null,
+      "gatekeeper_ids": null,
+      "gatekeeper_details": [
+        {
+          "id": "13eade13-7d73-4a21-b7b3-ee42d2755af3",
+          "country_code": "+91",
+          "mobile": "9999556677",
+          "email": "sachin89@gmail.com",
+          "first_name": "sachin",
+          "last_name": "Hs"
+        }
+      ],
+      "can_edit": false
+    },
+    {
+      "id": "292caef7-95a4-493d-9575-5524b12eb0a5",
+      "name": "HSR Sector 6 Service Road, Silkboard",
+      "address": "L-194, Santhosapuram, Sector 6, HSR Layout, Bengaluru, Karnataka 560101, India",
+      "latitude": 12.9180167,
+      "longitude": 77.6247532,
+      "google_maps_thumbnail_url": "https://stag.bhiveworkspace.com/store/static_assets/images/map_thumbnails/28927432-4528-4306-8d6e-35c6eee6593c.png",
+      "google_maps_url": "https://www.google.com/maps/place/BHIVE+Workspace+HSR+Sector+6+Service+Road/@12.9180167,77.6247532,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae148e4c9e8995:0x3392cdca1bf93e2d!8m2!3d12.9180167!4d77.6247532!16s%2Fg%2F11cltbf_l5?entry=ttu",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "postal_code": "560101",
+      "description": null,
+      "rules": null,
+      "amenities": ["Conferencing facilities", "Parking"],
+      "images": [
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/0a74575ca6004b4bb20dcd131afc5849.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/d0f7af4fec064a91839fb5e51f70c886.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/9dd5a9cefbba430b908ddaecaf37e84e.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/9106748b5c0f41daa4eb8ede887545ba.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/422740a5ec1f42adb09b9136cd5ed03a.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/9fc55d7a8afd41e199aebeab50696ec9.jpg"
+      ],
+      "working_hours_start": "00:00",
+      "working_hours_end": "23:59",
+      "contact_person_name": "Dave",
+      "contact_person_phone": "+919769220897",
+      "facilities": null,
+      "is_active": true,
+      "is_day_pass_enabled": true,
+      "day_pass_price": 99.0,
+      "day_pass_discounts_percentage": {
+        "1": {
+          "value": 0,
+          "message": ""
+        },
+        "10": {
+          "value": 20,
+          "message": "Pay for 8 Days, Get 2 Days Complimentary"
+        }
+      },
+      "manager_id": null,
+      "gatekeeper_ids": null,
+      "gatekeeper_details": [],
+      "can_edit": false
+    },
+    {
+      "id": "9683ec96-ce29-4fa3-a61d-f18f08c848de",
+      "name": "Sector 6, HSR",
+      "address": "BHIVE, Mahalakshmi Chambers, 29, Mahatma Gandhi Rd, next to Metro Station Trinity, opp. Kotak Bank, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001, India",
+      "latitude": 12.9735089,
+      "longitude": 77.6164228,
+      "google_maps_thumbnail_url": "https://stag.bhiveworkspace.com/store/static_assets/images/map_thumbnails/95218423-c5d4-404b-b880-2f7ec5ad09f5.png",
+      "google_maps_url": "https://www.google.com/maps/place/BHIVE+Workspace+MG+Road/@12.9735141,77.6138479,17z/data=!3m1!4b1!4m9!1m2!2m1!1scoworking+MG+road!3m5!1s0x3bae17daed2415b9:0x12dd81e0b4f492f2!8m2!3d12.9735089!4d77.6164228!16s%2Fg%2F11h75z6gql?entry=ttu",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "postal_code": "560001",
+      "description": "description",
+      "rules": "rules",
+      "amenities": ["Conferencing facilities", "Lounge"],
+      "images": [
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/9853d80aab784b64a98df29a8bea173a.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/c5f6ae479ce94409897e0c9781108e04.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/b76aa5f023854d8d848c7d6e4a486c28.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/7c153822082d4d868d42a80185b1fffa.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/4ddcf3c0dabf4cf494e329bf63e2c5d8.jpg"
+      ],
+      "working_hours_start": "00:00",
+      "working_hours_end": "23:59",
+      "contact_person_name": "Dave",
+      "contact_person_phone": "+919769220897",
+      "facilities": null,
+      "is_active": true,
+      "is_day_pass_enabled": true,
+      "day_pass_price": 249.0,
+      "day_pass_discounts_percentage": {
+        "1": {
+          "value": 0,
+          "message": ""
+        },
+        "10": {
+          "value": 20,
+          "message": "Pay for 8 Days, Get 2 Days Complimentary"
+        }
+      },
+      "manager_id": null,
+      "gatekeeper_ids": ["677cf121-76b0-4e4e-ae41-8257b898e7c0"],
+      "gatekeeper_details": [
+        {
+          "id": "677cf121-76b0-4e4e-ae41-8257b898e7c0",
+          "country_code": "+91",
+          "mobile": "8084236465",
+          "email": "aaditya@praemineo.com",
+          "first_name": "gatekeeper",
+          "last_name": "Aaditya"
+        }
+      ],
+      "can_edit": false
+    },
+    {
+      "id": "727a615e-109d-4a91-b4fb-65539e03010f",
+      "name": "Premium, Church Street",
+      "address": "48, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "latitude": 12.9756071,
+      "longitude": 77.60321929999999,
+      "google_maps_thumbnail_url": "https://stag.bhiveworkspace.com/store/static_assets/images/map_thumbnails/60392dc3-4629-4277-9f6f-afb574f81ae8.png",
+      "google_maps_url": "https://www.google.com/maps/place/BHIVE+Premium+Church+Street/@12.9754489,77.6031689,19.91z/data=!4m14!1m7!3m6!1s0x3bae173e2de8a801:0x1a89454e3024974b!2sBHIVE+Premium+Church+Street!8m2!3d12.9756071!4d77.6032193!16s%2Fg%2F11kbz2bpk8!3m5!1s0x3bae173e2de8a801:0x1a89454e3024974b!8m2!3d12.9756071!4d77.6032193!16s%2Fg%2F11kbz2bpk8?entry=ttu",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "postal_code": "560001",
+      "description": null,
+      "rules": null,
+      "amenities": null,
+      "images": [
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/fe73f29046a8492dba7ed8cf0c2b1f8c.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/8407ecebd29d4bd697e1e79d22c6816d.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/0ab6b32ebb024d13ac3c67b83487fa4c.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/2f19e3f95c024506b4fcaf3b70c60505.jpg",
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/62224892afa5439c85abd2375c72c540.jpg"
+      ],
+      "working_hours_start": "00:00",
+      "working_hours_end": "23:59",
+      "contact_person_name": "Dave",
+      "contact_person_phone": "+919769220897",
+      "facilities": null,
+      "is_active": true,
+      "is_day_pass_enabled": true,
+      "day_pass_price": 499.0,
+      "day_pass_discounts_percentage": {
+        "1": {
+          "value": 0,
+          "message": ""
+        },
+        "10": {
+          "value": 20,
+          "message": "Pay for 8 Days, Get 2 Days Complimentary"
+        }
+      },
+      "manager_id": null,
+      "gatekeeper_ids": null,
+      "gatekeeper_details": [
+        {
+          "id": "b9891cc1-9e99-43b1-8b8b-60522e72adac",
+          "country_code": "+91",
+          "mobile": "9110644786",
+          "email": "shwethal2@bhiveworkspace.com",
+          "first_name": "Shwetha",
+          "last_name": "L"
+        }
+      ],
+      "can_edit": false
+    },
+    {
+      "id": "1754b344-f0f6-4499-b042-bd4345b8c839",
+      "name": "Jan11  by Aadi",
+      "address": "BHIVE Workspace, No.467/468, Situated on, Shri Krishna Temple Rd, Indira Nagar 1st Stage, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "latitude": 12.9789187,
+      "longitude": 77.643063,
+      "google_maps_thumbnail_url": "https://stag.bhiveworkspace.com/store/static_assets/images/map_thumbnails/f8d553e6-87aa-49d3-be7d-be8fec68d83a.png",
+      "google_maps_url": "https://www.google.com/maps/place/BHIVE+Workspace+Indiranagar/@12.9789187,77.6404881,17z/data=!4m7!3m6!1s0x3bae141e007a849d:0xbff26c814318fc77!4b1!8m2!3d12.9789187!4d77.643063!16s%2Fg%2F11bxf3zpnf?entry=ttu",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "postal_code": "560038",
+      "description": "dec 11",
+      "rules": "r11",
+      "amenities": [
+        "Library",
+        "Pet-friendly",
+        "Conferencing facilities",
+        "Outdoor space"
+      ],
+      "images": [
+        "https://stag.bhiveworkspace.com/store/static_assets/images/centers/53d94abae6ca45a38ecbc32b5fb710e6.jpg"
+      ],
+      "working_hours_start": "09:00",
+      "working_hours_end": "18:00",
+      "contact_person_name": null,
+      "contact_person_phone": null,
+      "facilities": null,
+      "is_active": true,
+      "is_day_pass_enabled": true,
+      "day_pass_price": 99.0,
+      "day_pass_discounts_percentage": {
+        "1": {
+          "value": 0,
+          "message": ""
+        },
+        "10": {
+          "value": 20,
+          "message": "Pay for 8 Days, Get 2 Days Complimentary"
+        }
+      },
+      "manager_id": null,
+      "gatekeeper_ids": null,
+      "gatekeeper_details": [],
+      "can_edit": false
+    }
+  ]
+}
